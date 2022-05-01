@@ -1,5 +1,5 @@
-# hello-world
+# learning_python
 
-Hi humans!
+Hi everyone!
 
-Hubot here, I like python and R, I'm studying DAX now.
+Nathan here, I like python and R, I'm studying DAX now.
